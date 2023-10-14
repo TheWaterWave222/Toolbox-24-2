@@ -1,0 +1,11 @@
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\bin\Debug\Toolbox 24 UI.exe.config
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\bin\Debug\Toolbox 24 UI.exe
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\bin\Debug\Toolbox 24 UI.pdb
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox 24 UI.csproj.AssemblyReference.cache
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox_24_UI.Form1.resources
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox_24_UI.Properties.Resources.resources
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox 24 UI.csproj.GenerateResource.cache
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox 24 UI.csproj.CoreCompileInputs.cache
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox 24 UI.exe
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox 24 UI.pdb
+C:\Users\TheWa\OneDrive\Documents\Projects\Programming\C#\Toolbox 24 UI\obj\Debug\Toolbox_24_UI.Scripts.Windows_Activator.WinActUI.resources
